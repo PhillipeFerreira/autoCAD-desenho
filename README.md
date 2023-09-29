@@ -1,2 +1,4 @@
 # autoCAD-desenho
- Projetos da cadeira de desenho técnico, eletrotécnica(2020.2)
+ Projetos da cadeira de desenho técnico 
+ Aluno: Phillipe A. Ferreira
+ Turma: Eletrotécnica 2020.2
